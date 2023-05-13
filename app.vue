@@ -77,6 +77,12 @@ const localePath = useLocalePath();
         </h3>
         <ul>
           <li>
+            <a href="mailto:info@pavlo.dev">
+              <SocialEmailIcon/>
+              <span>info@pavlo.dev</span>
+            </a>
+          </li>
+          <li>
             <a href="https://www.linkedin.com/in/pavlo-dev/" target="_blank">
               <SocialLinkedinIcon/>
               <span>pavlo-dev</span>
