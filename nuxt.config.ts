@@ -36,6 +36,11 @@ export default defineNuxtConfig({
                     rel: "stylesheet",
                     type: "text/css",
                 },
+                {
+                    href: "/apple-touch-icon.png",
+                    rel: "apple-touch-icon",
+                    sizes: "180x180",
+                },
             ],
         },
     },
