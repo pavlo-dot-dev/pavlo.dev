@@ -1,4 +1,6 @@
 <script setup lang="ts">
+import PhoneIcon from "~/components/social/phone-icon.vue";
+
 const localePath = useLocalePath();
 </script>
 
@@ -77,6 +79,12 @@ const localePath = useLocalePath();
         </h3>
         <ul>
           <li>
+            <a href="https://t.me/pavlo_dev" target="_blank">
+              <SocialTelegramIcon/>
+              <span>@pavlo_dev</span>
+            </a>
+          </li>
+          <li>
             <a href="mailto:info@pavlo.dev">
               <SocialEmailIcon/>
               <span>info@pavlo.dev</span>
@@ -95,15 +103,15 @@ const localePath = useLocalePath();
             </a>
           </li>
           <li>
-            <a href="https://t.me/pavlo_dev" target="_blank">
-              <SocialTelegramIcon/>
-              <span>@pavlo_dev</span>
-            </a>
-          </li>
-          <li>
             <a href="https://www.facebook.com/popov.pavlo.dev" target="_blank">
               <SocialFacebookIcon/>
               <span>popov.pavlo.dev</span>
+            </a>
+          </li>
+          <li>
+            <a href="tel:+380951307759">
+              <PhoneIcon/>
+              <span>+380951307759</span>
             </a>
           </li>
           <li>
