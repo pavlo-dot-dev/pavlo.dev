@@ -52,7 +52,7 @@
           <div class="name">{{ $t('private-company') }}</div>
           <div class="description">{{ $t('private-company-description') }}</div>
         </div>
-        <div class="years">2007 - {{ $t('now') }}</div>
+        <div class="years">2019 - {{ $t('now') }}</div>
       </li>
     </ul>
     <h3>{{ $t('technologies') }}</h3>
