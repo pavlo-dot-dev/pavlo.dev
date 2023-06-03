@@ -31,7 +31,7 @@ const localePath = useLocalePath();
               <span class="enable"></span>
               <span class="enable"></span>
               <span class="enable"></span>
-              <span class="disable"></span>
+              <span class="enable"></span>
               <span class="disable"></span>
             </div>
           </li>
@@ -101,9 +101,9 @@ const localePath = useLocalePath();
             </a>
           </li>
           <li>
-            <a href="https://www.facebook.com/pavlo.dev.facebook" target="_blank">
+            <a href="https://www.facebook.com/popov.pavlo.dev" target="_blank">
               <SocialFacebookIcon/>
-              <span>pavlo.dev.facebook</span>
+              <span>popov.pavlo.dev</span>
             </a>
           </li>
           <li>
