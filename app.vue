@@ -115,7 +115,7 @@ const localePath = useLocalePath();
             </a>
           </li>
           <li>
-            <a href="https://discord.gg/vUp8sHZU" target="_blank">
+            <a href="https://discordapp.com/users/1031809451847602236" target="_blank">
               <SocialDiscordIcon/>
               <span>pavlo.dev#6838</span>
             </a>
